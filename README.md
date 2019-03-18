@@ -1,4 +1,4 @@
-worldcoin_graphics
+Worldcoin_Graphics
 ==================
 
 Worldcoin Graphics
